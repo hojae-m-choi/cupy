@@ -1,3 +1,4 @@
 .DS_Store
-__pycache__/course_utils.cpython-313.pyc
+__pycache__
 .ipynb_checkpoints
+.vscode
