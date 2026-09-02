@@ -1,0 +1,15 @@
+name: cupy
+channels:
+  - conda-forge
+dependencies:
+  - cuda-cccl
+  - cupy
+  - ipykernel
+  - matplotlib
+  - numba
+  - numpy<2.4
+  - pip
+  - python=3.12
+  - scipy
+
+
